@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Kethely Tavares
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=KethelyTS&show_icons=true&theme=default&hide_title=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=kethelyta&show_icons=true&theme=default&hide_title=true&count_private=true"
   alt="GitHub Repositories and Stars" 
   height="140" 
   style="margin-bottom: 30px;" 
@@ -45,7 +45,7 @@
 ## Linguagens mais usadas
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KethelyTS&layout=compact&theme=default&langs_count=10&hide_title=true&cache_seconds=3600"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethelyta&layout=compact&theme=default&langs_count=10&hide_title=true&cache_seconds=3600"
     alt="Top Languages" 
   />
 </p>
